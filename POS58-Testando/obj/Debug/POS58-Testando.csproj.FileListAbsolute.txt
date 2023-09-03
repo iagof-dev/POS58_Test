@@ -1,0 +1,10 @@
+D:\Projetos\POS58-Testando\POS58-Testando\bin\Debug\POS58-Testando.exe.config
+D:\Projetos\POS58-Testando\POS58-Testando\bin\Debug\POS58-Testando.exe
+D:\Projetos\POS58-Testando\POS58-Testando\bin\Debug\POS58-Testando.pdb
+D:\Projetos\POS58-Testando\POS58-Testando\obj\Debug\POS58-Testando.csproj.AssemblyReference.cache
+D:\Projetos\POS58-Testando\POS58-Testando\obj\Debug\POS58_Testando.Form1.resources
+D:\Projetos\POS58-Testando\POS58-Testando\obj\Debug\POS58_Testando.Properties.Resources.resources
+D:\Projetos\POS58-Testando\POS58-Testando\obj\Debug\POS58-Testando.csproj.GenerateResource.cache
+D:\Projetos\POS58-Testando\POS58-Testando\obj\Debug\POS58-Testando.csproj.CoreCompileInputs.cache
+D:\Projetos\POS58-Testando\POS58-Testando\obj\Debug\POS58-Testando.exe
+D:\Projetos\POS58-Testando\POS58-Testando\obj\Debug\POS58-Testando.pdb
